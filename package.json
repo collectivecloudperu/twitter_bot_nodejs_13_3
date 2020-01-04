@@ -1,0 +1,14 @@
+{
+  "name": "bot-twitter",
+  "version": "1.0.0",
+  "description": "Bot para Twitter con Node JS 13.3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nube Colectiva",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
